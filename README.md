@@ -7,8 +7,11 @@ in this code's we use pmc as parallel max clique solver. first we generate data'
 # Files
 
 we have 3 type of compiled file's:
+
 1- solver : which is Files/pmc.* compiled file
+
 2- run : which is Files/run.cpp compiled file
+
 3- check : which is Files/check.cpp compiled file
 
 # RoadMap
